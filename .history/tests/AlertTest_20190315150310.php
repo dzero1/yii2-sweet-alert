@@ -1,14 +1,14 @@
 <?php
 
-namespace dzero1\alert\tests;
+namespace yii2mod\alert\tests;
 
 use Yii;
-use dzero1\alert\Alert;
+use yii2mod\alert\Alert;
 
 /**
  * Class AlertTest
  *
- * @package dzero1\alert\tests
+ * @package yii2mod\alert\tests
  */
 class AlertTest extends TestCase
 {

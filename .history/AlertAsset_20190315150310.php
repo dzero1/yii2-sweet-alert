@@ -1,13 +1,13 @@
 <?php
 
-namespace dzero1\alert;
+namespace yii2mod\alert;
 
 use yii\web\AssetBundle;
 
 /**
  * Class AlertAsset
  *
- * @package dzero1\alert
+ * @package yii2mod\alert
  */
 class AlertAsset extends AssetBundle
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace dzero1\alert;
+namespace yii2mod\alert;
 
 use Yii;
 use yii\base\InvalidConfigException;
@@ -11,7 +11,7 @@ use yii\helpers\Json;
 /**
  * Alert widget renders a message from session flash or custom messages.
  *
- * @package dzero1\alert
+ * @package yii2mod\alert
  */
 class Alert extends Widget
 {

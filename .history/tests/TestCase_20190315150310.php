@@ -1,11 +1,11 @@
 <?php
 
-namespace dzero1\alert\tests;
+namespace yii2mod\alert\tests;
 
 use Yii;
 use yii\helpers\ArrayHelper;
 use yii\helpers\FileHelper;
-use dzero1\alert\tests\data\Session;
+use yii2mod\alert\tests\data\Session;
 
 /**
  * This is the base class for all yii framework unit tests.

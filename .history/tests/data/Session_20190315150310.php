@@ -1,11 +1,11 @@
 <?php
 
-namespace dzero1\alert\tests\data;
+namespace yii2mod\alert\tests\data;
 
 /**
  * Class Session
  *
- * @package dzero1\alert\tests\data
+ * @package yii2mod\alert\tests\data
  */
 class Session extends \yii\web\Session
 {
