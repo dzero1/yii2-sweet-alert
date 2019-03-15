@@ -110,12 +110,12 @@ class Alert extends Widget
      */
     protected function registerAssets()
     {
-        if ($this->hasTitle()) {
+        //if ($this->hasTitle()) {
             $view = $this->getView();
             AlertAsset::register($view);
             $js = "sweetAlert({$this->getOptions()}, {$this->callback});";
             $view->registerJs($js, $view::POS_END);
-        }
+        //}
     }
 
     /**
